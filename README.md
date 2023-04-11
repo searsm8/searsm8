@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @searsm8
+- 👋 Hi, I’m Mark Sears
 - I'm a PhD student at UT Dallas studying FPGA implementation, tools, and algorithms.
 - Right now I'm working on implementing a placement algorithm on the Xilinx Versal architecture.
 - You can email me at mark.sears@utdallas.edu
